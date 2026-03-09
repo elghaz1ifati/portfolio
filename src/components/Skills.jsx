@@ -14,8 +14,8 @@ export function Skills() {
       category: "Backend",
       skills: [
         { name: "Node.js", level: 85 },
-        { name: "Express", level: 80 },
-        { name: "PostgreSQL", level: 75 },
+        { name: "Laravel", level: 80 },
+        { name: "SQL", level: 75 },
         { name: "MongoDB", level: 70 },
         { name: "REST APIs", level: 90 },
       ],
@@ -25,9 +25,9 @@ export function Skills() {
       skills: [
         { name: "Git/GitHub", level: 90 },
         { name: "Docker", level: 70 },
-        { name: "AWS", level: 65 },
+        { name: "Agile", level: 85 },
         { name: "CI/CD", level: 75 },
-        { name: "Figma", level: 80 },
+        { name: "Figma", level: 90 },
       ],
     },
   ];
