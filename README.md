@@ -1,6 +1,9 @@
 # 🚀 Personal Portfolio (MVP)
 
-A responsive personal portfolio built with React and Tailwind CSS. Current Status: MVP (v1.0) - Work in Progress
+*A responsive personal portfolio built with React and Tailwind CSS. Current Status: MVP (v1.0) - Work in Progress*
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 📖 About
 
@@ -20,13 +23,13 @@ This is the initial release of my personal portfolio website. It serves as a sho
 
 ## 🛠 Tech Stack
 
-Frontend: React.js
+- **Frontend:** React.js
 
-Styling: Tailwind CSS
+- **Styling:** Tailwind CSS
 
-Build Tool: Vite React
+- **Build Tool:** Vite React
 
-Icons: React Icons / FontAwesome
+- **Icons:** React Icons / FontAwesome
 
 ## 🚀 Installation
 
@@ -58,4 +61,4 @@ I am actively working on the following features for the next version:
 🔜 Backend Integration for Contact Form
 
 ## 📄 License
-This project is open source and available under the MIT License.
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
