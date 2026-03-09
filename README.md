@@ -24,7 +24,7 @@ Frontend: React.js
 
 Styling: Tailwind CSS
 
-Build Tool: Vite (or Create React App)
+Build Tool: Vite React
 
 Icons: React Icons / FontAwesome
 
